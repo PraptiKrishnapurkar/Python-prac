@@ -19,7 +19,7 @@ This repository contains my Python programming practice, covering fundamental co
 - Exception Handling
 - Object-Oriented Programming (OOP)
 - Modules and Packages
-- Basic Algorithms
+- Basic Algorithms.
 
 
 
